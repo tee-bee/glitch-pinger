@@ -1,1 +1,1 @@
-wget https://plum-bot.glitch.me/
+wget https://plumbot.glitch.me/
